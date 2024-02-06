@@ -1,0 +1,13 @@
+.navbar{
+  background-color: blue;
+  height: 80px;
+}
+
+.navbar-brand{
+  margin-right: 250px;
+  margin-left: 50px;
+}
+
+.navbar{
+  border-radius: 25px 0 25px 0;
+}
